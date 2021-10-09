@@ -1,0 +1,9 @@
+
+<view class="content">
+	<image class='background' src="../../image/7.jpg"mode="aspectFill" ></image>
+</view>
+<view class='top'>{{' '}}</view>
+<view class='text'>{{'中秋博饼'}}</view>
+<view class='btn1' bindtap='enter1'>{{'单人'}}</view>
+<view class='btn2' bindtap='enter2'>{{'多人'}}</view>
+<view class='btn3' bindtap='enter3'>{{'规则'}}</view>
