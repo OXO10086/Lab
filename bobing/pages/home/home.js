@@ -26,5 +26,4 @@ Page({
       url:'/pages/rules/rules',
     })
   }
-
 })
